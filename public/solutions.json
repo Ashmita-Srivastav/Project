@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Healthcare",
+    "description": "AI solutions revolutionize healthcare.",
+    "imageUrl": "/images/Health.jpg" 
+  },
+  {
+    "title": "Automation",
+    "description": "automation empowers voice-controlled systems.",
+    "imageUrl": "/images/automation.jpg" 
+  }
+]
