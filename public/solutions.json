@@ -1,12 +1,52 @@
 [
   {
     "title": "Healthcare",
-    "description": "AI solutions revolutionize healthcare.",
-    "imageUrl": "/images/Health.jpg" 
+    "description": "AI solutions revolutionize healthcare, enabling faster diagnosis, personalized treatment plans, and seamless patient monitoring.",
+    "imageUrl": "/images/Health.jpg"
   },
   {
     "title": "Automation",
-    "description": "automation empowers voice-controlled systems.",
-    "imageUrl": "/images/automation.jpg" 
+    "description": "AI-powered automation enhances efficiency by streamlining workflows, reducing errors, and optimizing resource management.",
+    "imageUrl": "/images/automation.jpg"
+  },
+  {
+    "title": "Finance",
+    "description": "AI-driven analytics improve fraud detection, risk assessment, and automated trading strategies for financial institutions.",
+    "imageUrl": "/images/finance.jpg"
+  },
+  {
+    "title": "Retail",
+    "description": "AI enhances customer experience through personalized recommendations, chatbots, and efficient inventory management.",
+    "imageUrl": "/images/retail.jpg"
+  },
+  {
+    "title": "Education",
+    "description": "AI-powered learning platforms provide personalized tutoring, automated grading, and interactive virtual classrooms.",
+    "imageUrl": "/images/education.jpg"
+  },
+  {
+    "title": "Manufacturing",
+    "description": "AI optimizes production lines, predicts maintenance needs, and enhances quality control in manufacturing processes.",
+    "imageUrl": "/images/manufacturing.jpg"
+  },
+  {
+    "title": "Transportation",
+    "description": "AI enables smart traffic management, autonomous vehicles, and real-time route optimization for logistics and transport.",
+    "imageUrl": "/images/transportation.jpg"
+  },
+  {
+    "title": "Cybersecurity",
+    "description": "AI strengthens cybersecurity by detecting anomalies, preventing data breaches, and enhancing threat intelligence.",
+    "imageUrl": "/images/cybersecurity.jpg"
+  },
+  {
+    "title": "Energy",
+    "description": "AI-driven energy management optimizes power distribution, predicts demand, and enhances renewable energy utilization.",
+    "imageUrl": "/images/energy.jpg"
+  },
+  {
+    "title": "Agriculture",
+    "description": "AI helps in precision farming, crop monitoring, and predictive analytics for better yield and sustainability.",
+    "imageUrl": "/images/agriculture.jpg"
   }
 ]

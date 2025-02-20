@@ -24,7 +24,7 @@ const ImageCard: React.FC<ImageCardProps> = ({ title, description, image }) => {
         />
       </CardBody>
       <CardFooter className="flex flex-col text-white p-4">
-        <h1 className="font-bold text-lg">{title}</h1>
+        <h2 className="font-bold text-lg">{title}</h2>
         <p className="text-sm text-gray-300">
           {description.length > 80 ? description.substring(0, 80) + "..." : description}
         </p>
